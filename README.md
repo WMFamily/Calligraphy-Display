@@ -1,2 +1,2 @@
 # Calligraphy-Display
-website for display calligraphy works
+website for displaying calligraphy works
